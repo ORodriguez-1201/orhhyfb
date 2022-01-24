@@ -23,6 +23,6 @@ I just learn how to add a **_Bold Text_** using Markdown, programming world is s
  
  ---
 
-## Message
+###                                                                               Message
 
-![Spread love aroud the World!!] (Users\oswal\OneDrive\Desktop\spread-love-laugh-joy-positive-inspiration-list-noirty-designs.jpg")
+![spread-love-laugh-joy-positive-inspiration-list-noirty-designs](https://user-images.githubusercontent.com/68130946/150725168-744eff04-3091-4828-ab9f-a7f9dc0190ba.jpg)
